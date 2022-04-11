@@ -49,7 +49,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=islandview-vip&client_id=4635ae4aa29624bd246706859fa9e1d3" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=islandview-vip&client_id=c0b3272c0344fd652e330e2160660ba2" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
