@@ -1,9 +1,9 @@
-<?php require_once __DIR__ . '/../../parx-vip-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
+<?php require_once __DIR__ . '/../../islandview-vip-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>VIP Preferred at Parx Casino & Racing</title>
-    <?php require_once __DIR__ . '/../../parx-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
+    <?php require_once __DIR__ . '/../../islandview-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
@@ -49,7 +49,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=parx-vip&client_id=74f1f18f9f4226570bb504e90bde8ada" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=islandview-vip&client_id=4635ae4aa29624bd246706859fa9e1d3" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
