@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>VIP Preferred at Parx Casino & Racing</title>
+    <title>VIP Preferred at Island View Casino Resort</title>
     <?php require_once __DIR__ . '/../../islandview-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -31,7 +31,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
     <script src="https://ds94t24nq4vzb.cloudfront.net/bootstrap/3-4-1/bootstrap.min.js"></script>
-    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=dae1af56"></script>
+    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=314cfb7b"></script>
 </head>
 <body>
 
